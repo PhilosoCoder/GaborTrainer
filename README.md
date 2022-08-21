@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GaborTrainer
 - 👀 I’m interested in java and back - end coding.
-- 🌱 I’m currently learning at the GreenFox school.
+- 🌱 I’m currently learning at the Training 360 school.
 - //💞️ I’m looking to collaborate on
 - 📫 How to reach me : contact@nagygabor.fit
 
