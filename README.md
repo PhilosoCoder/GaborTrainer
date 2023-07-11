@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GaborTrainer
-- 👀 I’m interested in java and backend coding.
-- 🌱 I’m currently open for work.
+- 👀 I’m interested in java and vue.js.
 - 📫 How to reach me : philosocoder@gmail.com
+- https://www.codewars.com/users/GaborTrainer
