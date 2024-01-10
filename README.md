@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GaborTrainer
-- 👀 I’m interested in java and vue.js.
+- 👋 Hi, I’m @PhilosoCoder
+- 👀 I’m interested in java.
 - 📫 How to reach me : philosocoder@gmail.com
-- https://www.codewars.com/users/GaborTrainer
+- https://www.codewars.com/users/PhilosoCodR
